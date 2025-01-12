@@ -1,11 +1,22 @@
 FIXED:
-+ Nothing
-
++ Not Rly A Fix But Added Spheres For Hands On Ghost And Invis Monke
 ADDED:
-+ Fix Arms
-+ Spin Head
-+ Spit
-+ Vomit
-
++ Walk On Water
++ Fix Water
++ Spin Head Y
++ Spin Head Z
++ Spaz Bug
++ Spaz Bat
++ CS RGB All
++ Upside Down Head
++ SetRoom Private
++ SetRoom Public
++ Infection Tracers
++ Replaced Tracers With Casual Tracers
++ Grab Beach Ball
++ FPS Boost
++ Bone ESP
++ Anti Water
 REMOVED:
-- Spaz Head (Replaced By Spin Head)
+- Inf Shiny Rocks (started giving me errors)
+- Spam Platforms
