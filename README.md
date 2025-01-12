@@ -1,5 +1,6 @@
 FIXED:
 + Not Rly A Fix But Added Spheres For Hands On Ghost And Invis Monke
+
 ADDED:
 + Walk On Water
 + Fix Water
@@ -17,6 +18,7 @@ ADDED:
 + FPS Boost
 + Bone ESP
 + Anti Water
+
 REMOVED:
 - Inf Shiny Rocks (started giving me errors)
 - Spam Platforms
