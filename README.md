@@ -1,24 +1,16 @@
 FIXED:
-+ Not Rly A Fix But Added Spheres For Hands On Ghost And Invis Monke
-
++ Ghost Monke Is Now Toggalable
++ Invis Monke Is Now Toggalable
 ADDED:
-+ Walk On Water
-+ Fix Water
-+ Spin Head Y
-+ Spin Head Z
-+ Spaz Bug
-+ Spaz Bat
-+ CS RGB All
-+ Upside Down Head
-+ SetRoom Private
-+ SetRoom Public
-+ Infection Tracers
-+ Replaced Tracers With Casual Tracers
-+ Grab Beach Ball
-+ FPS Boost
-+ Bone ESP
-+ Anti Water
-
++ Fun Folder
++ WASD Fly
++ Grab All Ids
++ RPC Protection
++ Anti Tag
++ Low HZ
++ CS Admin Badge
++ Strobe
++ Unlock Comp
++ Take SS
 REMOVED:
-- Inf Shiny Rocks (started giving me errors)
-- Spam Platforms
+- Bone ESP (Laggy And Only One Arm Shows Up)
