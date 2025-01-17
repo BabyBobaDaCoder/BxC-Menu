@@ -1,6 +1,7 @@
 FIXED:
 + Ghost Monke Is Now Toggalable
 + Invis Monke Is Now Toggalable
+
 ADDED:
 + Fun Folder
 + WASD Fly
@@ -12,5 +13,6 @@ ADDED:
 + Strobe
 + Unlock Comp
 + Take SS
+
 REMOVED:
 - Bone ESP (Laggy And Only One Arm Shows Up)
