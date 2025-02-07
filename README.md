@@ -1,18 +1,27 @@
-FIXED:
-+ Ghost Monke Is Now Toggalable
-+ Invis Monke Is Now Toggalable
+FIXED OR CHANGED:
++ Grab Beach Ball
++ Tracers
++ Changed Menu Layout Alot
++ Now U Can Go Down On WASD Fly
++ Rig Shit Und Now
++ Obfuscated So Skids Go Away
 
 ADDED:
-+ Fun Folder
-+ WASD Fly
-+ Grab All Ids
-+ RPC Protection
-+ Anti Tag
-+ Low HZ
-+ CS Admin Badge
-+ Strobe
-+ Unlock Comp
-+ Take SS
++ Fake Oculus Menu
++ Buy All Free Cosmetics (real/ss)
++ Cosmetix Mod
++ Tag Gun
++ Rig Gun
++ Anti RPC Ban
++ Flush RPCS
++ Grip Tag All
++ Grip Tag Aura
++ Bone ESP
++ Frozone
++ Set Name Baby Boba On Top
 
 REMOVED:
-- Bone ESP (Laggy And Only One Arm Shows Up)
+- Infection Tracers (NW)
+- Panic (started giving errors for some reason)
+- CS Stick (NW)
+- CS Admin Badge (NW)
